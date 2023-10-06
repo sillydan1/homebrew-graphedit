@@ -9,7 +9,7 @@ cask "graphedit" do
 
   url "https://github.com/sillydan1/graphedit/releases/download/v1.0.0/graphedit.dmg"
 
-  sha256 "e292e545809ae56c5ad12318e0d5fc10c98149bf5f05d717cbdc2fb77fd1b770"
+  sha256 "dc728d2a7d3ebdcd1faed1ab7fda9fadf5bc34002f55aa14cc380dae0c042657"
 
   app "graphedit.app"
 end
